@@ -1,0 +1,31 @@
+A============HH============D
+I            ii            I
+I 1--4 1---4 ii 1---4 1--4 I
+I*ixxi ixxxi ii ixxxi ixxi*I
+I 2--3 2---3 23 2---3 2--3 I
+I                          I
+I 1--4 14 1------4 14 1--4 I
+I 2--3 ii 2--41--3 ii 2--3 I
+I      ii    ii    ii      I
+b----4 i2--4 ii 1--3i 1----c
+xxxxxi i1--3x23x2--4i ixxxxx
+xxxxxi iixxxxxxxxxxii ixxxxx
+xxxxxi iix1--//--4xii ixxxxx
+-----3 23xixxxxxxix23 2-----
+xxxxxx xxxix^x^x^ixxx xxxxxx
+-----4 14xixxxxxxix14 1-----
+xxxxxi iix2------3xii ixxxxx
+xxxxxi iixxxxxxxxxxii ixxxxx
+xxxxxi iix1------4xii ixxxxx
+a----3 23x2--41--3x23 2----d
+I            ii            I
+I 1--4 1---4 ii 1---4 1--4 I
+I 2-4i 2---3 23 2---3 i1-3 I
+I*  ii       <        ii  *I
+E-4 ii 14 1------4 14 ii 1-e
+E-3 23 ii 2--41--3 ii 23 2-e
+I      ii    ii    ii      I
+I 1----32--4 ii 1--32----4 I
+I 2--------3 23 2--------3 I
+I                          I
+B==========================C
